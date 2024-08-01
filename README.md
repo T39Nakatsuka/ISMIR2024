@@ -9,7 +9,7 @@ Supplementary materials for the ISMIR2024 paper: Takayuki Nakatsuka, Masahiro Ha
 ```
 @proceedings{nakatsuka2024harnessing,
   title={Harnessing the Power of Distributions: Probabilistic Representation Learning on Hypersphere for Multimodal Music Information Retrieval},
-  author={Nkatsuka, Takayuki and Hamasaki, Masahiro and Goto, Masataka},
+  author={Nakatsuka, Takayuki and Hamasaki, Masahiro and Goto, Masataka},
   booktitle={Proceedings of the International Society for Music Information Retrieval Conference (ISMIR)},
   pages={}
   year={2024}
